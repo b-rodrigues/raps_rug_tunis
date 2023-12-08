@@ -17,7 +17,7 @@ Bruno Rodrigues, head of the statistics and data strategy departments at the Min
 
 Slides available online at https://is.gd/raps_rug_tunis
 
-Code available at: 
+Code available at: https://github.com/b-rodrigues/raps_rug_tunis
 
 ## Goal of this workshop
 
